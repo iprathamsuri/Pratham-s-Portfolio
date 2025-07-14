@@ -1,0 +1,39 @@
+.footer {
+  background-color: #0d0c1d;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.95rem;
+  border-top: 1px solid #333;
+}
+
+.footer hr {
+  border: none;
+  border-top: 1px solid #333;
+  margin-bottom: 20px;
+}
+
+.footer-links {
+  margin: 10px 0;
+}
+
+.footer-links a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 8px;
+  transition: color 0.3s;
+}
+
+.footer-links a:hover {
+  color: #ff4081; /* You can use any highlight color */
+}
+
+.footer-made {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.heart {
+  color: red;
+}
